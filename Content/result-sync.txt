@@ -1,0 +1,5 @@
+This file is created via the FS write module. The code is in 10th file.
+
+Here is the result : Hello this is first text file. , Hello this is second text file. 
+
+Here is the result : Hello this is first text file. , Hello this is second text file. Here is the result : Hello this is first text file. , Hello this is second text file. 
